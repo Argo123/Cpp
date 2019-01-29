@@ -1,0 +1,30 @@
+﻿  Background.cpp
+Background.cpp(10): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Counter.cpp
+Counter.cpp(35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Counter.cpp(36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CustomButton.cpp
+CustomButton.cpp(35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+CustomButton.cpp(36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+CustomButton.cpp(77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Dragon.cpp
+  DragonStatus.cpp
+DragonStatus.cpp(19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+DragonStatus.cpp(20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+DragonStatus.cpp(25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+DragonStatus.cpp(26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+DragonStatus.cpp(31): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+DragonStatus.cpp(32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  GameLoop.cpp
+  GraphicalValues.cpp
+  List.cpp
+  Mechanics.cpp
+  Source.cpp
+  StateMachine.cpp
+  Generating code
+  271 of 279 functions (97.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project1.vcxproj -> C:\Users\micha\Source\Repos\Cpp\Dragons' Lair\Project1\x64\Release\DragonLair.exe
+  Project1.vcxproj -> C:\Users\micha\Source\Repos\Cpp\Dragons' Lair\Project1\x64\Release\DragonLair.pdb (Full PDB)
